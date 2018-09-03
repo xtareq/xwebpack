@@ -1,1 +1,2 @@
 # xwebpack
+## How to install
