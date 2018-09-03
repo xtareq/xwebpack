@@ -1,16 +1,14 @@
 {
-  "name": "cigular",
-  "version": "1.0.0",
-  "description": "",
+  "name": "xwebpack",
+  "version": "1.0",
+  "description": "Simple webpack boilerplate.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "webpack-dev-server --mode=development",
-    "prod": "webpack-dev-server --mode=production",
     "build": "webpack --mode=production"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tareq Hossain",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.0.0",
